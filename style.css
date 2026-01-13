@@ -2,10 +2,12 @@
 body {
     background
           <img src="https://www.kasandbox.org/programming-images/animals/rabbit.png" alt="Rabbit with lop ears in barn" width="203"> 
-
-/* Style for all paragraphs */
 p {
-    color: darkgreen;
+    color: rgb(255, 0, 0);
+}
+
+p {
+
     font-size: 16px;
     font-family: 'Times New Roman', serif;
 }
