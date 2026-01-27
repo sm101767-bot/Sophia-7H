@@ -12,6 +12,9 @@ p {
     font-family: 'Times New Roman', serif;
 }
 
+
+     font-family: Arial, sans-serif;
+                background: rbg (222, 253, 255);
 /* Style for the main heading */
 h1 {
     text-align: center; /* Puts the heading in the middle */
